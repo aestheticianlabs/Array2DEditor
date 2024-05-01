@@ -15,8 +15,8 @@ To get started:
 
 ## See it in action
 
-![Example 2](Screenshots/Example_2.gif)
-![Example 1](Screenshots/Example_1.PNG)
+![Example 2](~Screenshots/Example_2.gif)
+![Example 1](~Screenshots/Example_1.PNG)
 
 ## Create arrays from your own types!
 
@@ -41,6 +41,7 @@ To do that:
 * **[Arthur Cousseau](https://www.linkedin.com/in/arthurcousseau/)**
 * Thanks to **[Bugbyte Studio](https://www.linkedin.com/in/bugbytestudio/)** for the idea of using Enums in `Array2DEditor`.
 * Thanks to **[CarlosManuelRodr](https://github.com/carlosmanuelrodr)** for the idea of using Sprites (and Objects in general) in `Array2DEditor`.
+* Made available for UPM with some modifications by **[Aesthetician Labs](https://aesthetic.games/)**.
 
 ## License
 

@@ -1,0 +1,12 @@
+{
+	"name": "com.aela.utilities.array2deditor",
+	"version": "1.1.0",
+	"displayName": "AeLa Array2DEditor",
+	"description": "Adds 2D array support to the Unity Editor",
+	"unity": "2019.4",
+	"documentationUrl": "https://github.com/aestheticianlabs/Array2DEditor",
+	"author": {
+		"name": "Aesthetician Labs",
+		"url": "https://aesthetic.games/"
+	}
+}
